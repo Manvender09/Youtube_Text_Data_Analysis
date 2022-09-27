@@ -3,7 +3,7 @@ So, Using the packages such as #pandas , #numpy , #matplotlib and #seaborn did v
 
 Operations on data:- 
 
-1.Did Sentiment analysis of comments on videos given by the viewers using #textblob and found the polarity of comments and there by storing it as a new column in the data frame.
+1.Did Sentiment analysis of comments on videos given by the viewers using #textblob and found the polarity of comments and there by storing it as a new column in the data frame.  
 2.Using the #wordcloud library of python generated separate figure of most used positive and negative words in comments.
 3.Did #emoji analysis using emoji module of #python where the most used emoji's in 6,91,375 comments were extracted and the Bar chart was plotted to present the data visually
 4.CSV file containing the You Tube data from different region such as France, Japan, Russia, USA, India, Denmark was merged to form one data frame.
